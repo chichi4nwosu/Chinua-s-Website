@@ -1,0 +1,93 @@
+body{
+    background-color: rgb(205, 202, 202);
+}
+
+nav{
+    background-color: rgb(28, 5, 50);
+    text-align: right;
+    font-size: 20px;
+    font: optional;
+    padding: 10px 0px 10px 0px;
+}
+header{
+    text-align: center;
+}
+footer{
+    background-color: rgb(28, 5, 50);
+    padding: 10px 0px 10px 0px;
+}
+.words{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(98, 96, 99);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Plus Jakarta Sans', sans-serif; /* Apply Plus Jakarta Sans font */
+    /*background-color: rgb(98, 96, 99);  Background color */
+    /*padding-top: 10px; /* Padding settings
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px; 
+    */
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    font-size: 30px;
+    
+}
+
+a{
+    font-size: 20px;
+    color: white;
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fixed-text{
+    position: fixed;
+    top: 20px;
+    right: 15px;
+    font-size: 20px;
+    color: white;
+    padding: 1px 1px 0px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.item1{
+    display: flex;
+    gap: 20px;
+}
+
+.comfortaa-reg {
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.item3{
+    display: flex;
+    gap: 20px;
+}
+
+.flex-container{
+    display: flex;
+    gap: 20px;
+}
+
+
+ul{
+    text-align: center;
+}
+
+.social-links{
+    text-decoration: none;
+    text-align: left;
+}
+
